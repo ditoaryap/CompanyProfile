@@ -1,5 +1,5 @@
 import Image from "next/image";
-import Logo from "../../../public/assets/logo.svg";
+import Logo from "../../../public/assets/Logo.svg";
 
 const navLinks = [
   { name: "Home", type: "button", path: "/" },
